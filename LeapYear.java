@@ -1,5 +1,5 @@
 import java.util.*;
-public class prime{
+public class Year{
     public static void main(String a[]){
         int i,j,k,l=0;
         Scanner s=new Scanner(System.in);
