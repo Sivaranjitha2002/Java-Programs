@@ -1,5 +1,5 @@
 import java.util.*;
-public class prime{
+public class alpha{
     public static void main(String a[]){
         int i;
         char k;
