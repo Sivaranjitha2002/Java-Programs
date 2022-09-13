@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Prime{
+public class Armstrong{
     public static void main(String a[])throws Exception{
         int i=0,j=0,k,l,h;
         Scanner s=new Scanner(System.in);
