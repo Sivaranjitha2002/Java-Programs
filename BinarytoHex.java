@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class BinarytoHex{
     public static void main(String a[]){
         Scanner s=new Scanner(System.in);
         System.out.print("Enter the Binary Number: ");
