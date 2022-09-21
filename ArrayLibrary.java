@@ -1,5 +1,5 @@
 import java.util.*;
-public class SpaceRemover{
+public class ArrayLibrary{
     public static void main(String t[]) throws Exception{
         Scanner s=new Scanner(System.in);
         int[][] b={{1,2,3},{4,5,6},{7,8,9}};
