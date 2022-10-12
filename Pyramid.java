@@ -8,11 +8,10 @@ public class Pyramid{
             for(int sp=1;sp<=n-i;sp++){
                 System.out.print("  ");
             }
-            System.out.print(" ");
             for(int j=i;j<=2*i-1;j++){
                 System.out.print(" *");
             }
-            
+          //   System.out.print(" ");
             for(int j=0;j<i-1;j++){
                 System.out.print("* ");
             }
